@@ -1,0 +1,137 @@
+{
+  "appName": "Smart Agriculture",
+  "tagline": "AI-Powered Crop Recommendation System",
+  "dashboard": {
+    "title": "Welcome to Smart Agriculture",
+    "subtitle": "Get personalized crop recommendations based on your soil, weather, and region",
+    "startButton": "Start Recommendation",
+    "totalFarmers": "Farmers Served",
+    "totalPredictions": "Predictions Made",
+    "avgRating": "Average Rating",
+    "quickLinks": "Quick Links",
+    "analytics": "View Analytics",
+    "feedback": "Give Feedback",
+    "imageUpload": "Upload Farm Image"
+  },
+  "language": {
+    "title": "Select Your Language",
+    "subtitle": "Choose your preferred language for the best experience",
+    "english": "English",
+    "telugu": "తెలుగు (Telugu)",
+    "hindi": "हिन्दी (Hindi)",
+    "tamil": "தமிழ் (Tamil)",
+    "continue": "Continue"
+  },
+  "input": {
+    "title": "Enter Farm Details",
+    "subtitle": "Fill in your farm conditions for accurate crop recommendations",
+    "temperature": "Temperature (°C)",
+    "temperaturePlaceholder": "e.g., 28",
+    "humidity": "Humidity (%)",
+    "humidityPlaceholder": "e.g., 65",
+    "rainfall": "Rainfall (mm)",
+    "rainfallPlaceholder": "e.g., 120",
+    "soilType": "Soil Type",
+    "selectSoil": "Select soil type",
+    "phLevel": "pH Level",
+    "acres": "Farm Area (Acres)",
+    "acresPlaceholder": "e.g., 5",
+    "season": "Season",
+    "selectSeason": "Select season",
+    "submit": "Get Recommendations",
+    "reset": "Reset Form",
+    "soilTypes": {
+      "alluvial": "Alluvial",
+      "black": "Black",
+      "red": "Red",
+      "laterite": "Laterite",
+      "sandy": "Sandy",
+      "clay": "Clay"
+    },
+    "seasons": {
+      "kharif": "Kharif (June-October)",
+      "rabi": "Rabi (November-March)",
+      "zaid": "Zaid (March-June)"
+    },
+    "validation": {
+      "required": "This field is required",
+      "tempRange": "Temperature must be between 0°C and 50°C",
+      "humidityRange": "Humidity must be between 0% and 100%",
+      "rainfallRange": "Rainfall must be between 0 and 500 mm",
+      "phRange": "pH level must be between 0 and 14",
+      "acresMin": "Acres must be greater than 0"
+    }
+  },
+  "results": {
+    "title": "Crop Recommendations",
+    "subtitle": "Based on your farm conditions, here are the best crops for you",
+    "matchScore": "Match Score",
+    "advantages": "Advantages",
+    "disadvantages": "Disadvantages",
+    "estimatedPrice": "Estimated Price",
+    "yieldPerAcre": "Yield per Acre",
+    "yieldComparison": "Yield Comparison",
+    "profitAnalysis": "Profit Analysis",
+    "tryAgain": "Try Different Inputs",
+    "noCrops": "No suitable crops found for the given conditions. Please adjust your inputs.",
+    "bestMatch": "Best Match",
+    "rank": "Rank"
+  },
+  "analytics": {
+    "title": "Usage Analytics",
+    "subtitle": "Insights and trends from our crop recommendation system",
+    "usageTrends": "Monthly Usage Trends",
+    "topCrops": "Most Recommended Crops",
+    "seasonDistribution": "Season Distribution",
+    "totalPredictions": "Total Predictions",
+    "totalFarmers": "Total Farmers",
+    "avgRating": "Average Rating"
+  },
+  "feedback": {
+    "title": "Your Feedback Matters",
+    "subtitle": "Help us improve with your valuable feedback",
+    "rateExperience": "Rate your experience",
+    "yourName": "Your Name",
+    "namePlaceholder": "Enter your name (optional)",
+    "yourComment": "Your Comment",
+    "commentPlaceholder": "Tell us about your experience...",
+    "submit": "Submit Feedback",
+    "recentFeedback": "Recent Feedback",
+    "thankYou": "Thank you for your feedback!",
+    "totalReviews": "Total Reviews",
+    "avgRating": "Average Rating"
+  },
+  "imageUpload": {
+    "title": "Farm Image Analysis",
+    "subtitle": "Upload a photo of your farm for AI-based soil and crop analysis",
+    "dragDrop": "Drag & drop your farm image here",
+    "or": "or",
+    "browse": "Browse Files",
+    "supported": "Supported formats: JPG, PNG, WebP (Max 10MB)",
+    "analyzing": "Analyzing your farm image...",
+    "results": "Analysis Results",
+    "soilType": "Detected Soil Type",
+    "soilHealth": "Soil Health",
+    "confidence": "Confidence",
+    "suggestedCrops": "Suggested Crops",
+    "observations": "Observations",
+    "uploadAnother": "Upload Another Image"
+  },
+  "chatbot": {
+    "title": "Farm Assistant",
+    "placeholder": "Ask me anything about farming...",
+    "welcome": "Hello! 🌾 I'm your Smart Agriculture assistant. Ask me about crops, soil, seasons, or farming tips!",
+    "send": "Send"
+  },
+  "nav": {
+    "home": "Home",
+    "analytics": "Analytics",
+    "feedback": "Feedback",
+    "imageUpload": "Image Upload"
+  },
+  "footer": {
+    "description": "Empowering farmers with AI-driven crop recommendations",
+    "rights": "All rights reserved",
+    "madeWith": "Made with ❤️ for Indian Farmers"
+  }
+}
